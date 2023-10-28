@@ -1,8 +1,8 @@
-**Sup**, my name is **Stas**
+**Sup**, my name is **Stas** \
 
-**Ago**: *16y*
+**Ago**: *16y* \
 
-**I live in** **Donetsk**\
+**I live in**: **secret.**
 
 
 ###### I won't add anything more. May be
